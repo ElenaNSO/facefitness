@@ -303,7 +303,7 @@
   font-size: 20px; /*calc(0.48vw + 10px);*/
   line-height: 1.2;
   font-weight: 700;
-  color: #006400;
+  color: #063506;
   text-transform: uppercase;
 }
 
@@ -313,7 +313,7 @@
  
 .article-title a {
   text-decoration: none;
-  color: #006400;
+  color: #063506;
 } 
 
 .article-title a:hover {
