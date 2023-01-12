@@ -896,6 +896,8 @@ color: darkmagenta;
   .mobil-logo {
 	  max-width: 271px;
 	  border-radius: 50%;	
+
+    margin: auto;
 	  text-align: center;
   }
   
